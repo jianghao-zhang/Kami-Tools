@@ -35,7 +35,7 @@ Kami Tools
 
 ### Browser
 
-* 🌟🌟🌟🌟🌟 [Arc](https://arc.net/) The most beautiful browser ever. Key words: Chromium-based, vertical sidebar, tab launcher...
+* 🌟🌟🌟🌟🌟 [Arc](https://arc.net/) The most beautiful browser ever. Key words: Chromium-based, vertical sidebar, tab launcher... [Gift Code](https://arc.net/gift/3f43b858)
 
 ### Information-Collection
 
