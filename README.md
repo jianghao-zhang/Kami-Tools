@@ -22,6 +22,7 @@ Kami Tools
 - [Terminal](#Terminal)
 - [Text/Code Editor](#Text/Code-Editor)
 - [Online Courses](#Online-Courses)
+- [RSS Readers](#RSS-Readers)
 - [Lovely Little Tools](#Lovely-Little-Tools)
 
 ### Note-taking
@@ -72,6 +73,11 @@ Kami Tools
 
 * 🌟🌟🌟🌟🌟 [CSdiy](https://csdiy.wiki/en/) A self-learning guide to computer science, a collection of the best CS courses from MIT, CMU, Stanford, UCB... across most of the topics in CS.
 * 🌟🌟🌟🌟🌟 [Roadmaps](https://metacademy.org/browse) Roadmaps to master Bayesian Statistics, Data Structures & Algorithms, Differential Geometry, Frequentist Statistics, Linear Algebra, Logic, Machine Learning, Multivariate Calculus, Optimization, Probabilistic Graphical Models, Reinforcement Learning, Probability Theory, Programming, Set Theory, Symbolic AI, Theory of Computation...
+
+### RSS-Readers
+
+* 🌟🌟🌟🌟 [Reeder 5](https://reederapp.com/)
+* 🌟🌟🌟🌟 [Feedly](https://feedly.com/) A robust feed reader that aggregates information from around the web into one convenient place.
 
 ### Lovely-Little-Tools
 
