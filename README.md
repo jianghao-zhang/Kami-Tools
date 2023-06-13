@@ -3,7 +3,7 @@ Kami Tools
 
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jianghao-zhang/Kami-Tools/blob/master/LICENSE)
 
-**My Collection of Awesome Tools/Websites.** However, some of them are only compatible with macOS .
+**My Collection of Awesome/Niche Tools/Websites.** However, some of them are only compatible with macOS .
 
 **Why "Kami"?:** The term "kami" in Japanese can be translated as "god". When utilizing these incredible tools, one may feel as though a divine force is aiding them. I use this term to convey my profound gratitude.
 
