@@ -23,6 +23,7 @@ Kami Tools
 - [Text/Code Editor](#Text/Code-Editor)
 - [Online Courses](#Online-Courses)
 - [RSS Readers](#RSS-Readers)
+- [Handwritten Tools](#Handwritten-Tools)
 - [Lovely Little Tools](#Lovely-Little-Tools)
 
 ### Note-taking
@@ -78,6 +79,10 @@ Kami Tools
 
 * 🌟🌟🌟🌟 [Reeder 5](https://reederapp.com/)
 * 🌟🌟🌟🌟 [Feedly](https://feedly.com/) A robust feed reader that aggregates information from around the web into one convenient place.
+
+### Handwritten-Tools
+
+* 🌟🌟🌟🌟 [Guga](https://www.guga.co/) A super whiteboard app specially designed for iPad.
 
 ### Lovely-Little-Tools
 
